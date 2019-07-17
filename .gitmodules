@@ -1,0 +1,15 @@
+[submodule "misc"]
+	path = misc
+	url = ssh://git@github.com/Wonko7/conf-misc
+[submodule "fonts"]
+	path = fonts
+	url = git@github.com:powerline/fonts
+[submodule "ergo"]
+	path = ergo
+	url = git@github.com:Wonko7/conf-ergodox-webthing
+[submodule "git"]
+	path = git
+	url = git@github.com:Wonko7/conf-git
+[submodule "kernel-config"]
+	path = kernel-config
+	url = git@github.com:Wonko7/conf-kernel
