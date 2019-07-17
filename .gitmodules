@@ -1,33 +1,44 @@
 [submodule "misc"]
 	path = misc
 	url = git@github.com:Wonko7/conf-misc
+	branch = master
 [submodule "fonts"]
 	path = fonts
 	url = git@github.com:powerline/fonts
+	branch = master
 [submodule "ergo"]
 	path = ergo
 	url = git@github.com:Wonko7/conf-ergodox-webthing
+	branch = master
 [submodule "git"]
 	path = git
 	url = git@github.com:Wonko7/conf-git
+	branch = master
 [submodule "kernel-config"]
 	path = kernel-config
 	url = git@github.com:Wonko7/conf-kernel
+	branch = master
 [submodule "nmap-vulners"]
 	path = nmap-vulners
 	url = git@github.com:vulnersCom/nmap-vulners
+	branch = master
 [submodule "notify-user"]
 	path = notify-user
 	url = git@github.com:Wonko7/conf-notify-user
+	branch = master
 [submodule "pass-audit"]
 	path = pass-audit
 	url = https://gitlab.com/darnir/pass-audit.git
+	branch = master
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:Wonko7/conf-zsh
+	branch = master
 [submodule "vim"]
 	path = vim
 	url = git@github.com:Wonko7/conf-vim
+	branch = master
 [submodule "xmonad"]
 	path = xmonad
 	url = git@github.com:Wonko7/conf-xmonad
+	branch = master
