@@ -1,6 +1,6 @@
 [submodule "misc"]
 	path = misc
-	url = ssh://git@github.com/Wonko7/conf-misc
+	url = git@github.com:Wonko7/conf-misc
 [submodule "fonts"]
 	path = fonts
 	url = git@github.com:powerline/fonts
