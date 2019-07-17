@@ -16,3 +16,9 @@
 [submodule "nmap-vulners"]
 	path = nmap-vulners
 	url = git@github.com:vulnersCom/nmap-vulners
+[submodule "notify-user"]
+	path = notify-user
+	url = git@github.com:Wonko7/conf-notify-user
+[submodule "pass-audit"]
+	path = pass-audit
+	url = https://gitlab.com/darnir/pass-audit.git
