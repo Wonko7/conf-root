@@ -22,3 +22,12 @@
 [submodule "pass-audit"]
 	path = pass-audit
 	url = https://gitlab.com/darnir/pass-audit.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:Wonko7/conf-zsh
+[submodule "vim"]
+	path = vim
+	url = git@github.com:Wonko7/conf-vim
+[submodule "xmonad"]
+	path = xmonad
+	url = git@github.com:Wonko7/conf-xmonad
