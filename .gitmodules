@@ -10,10 +10,6 @@
 	path = ergo
 	url = git@github.com:Wonko7/conf-ergodox-webthing
 	branch = master
-[submodule "git"]
-	path = git
-	url = git@github.com:Wonko7/conf-git
-	branch = master
 [submodule "kernel-config"]
 	path = kernel-config
 	url = git@github.com:Wonko7/conf-kernel
