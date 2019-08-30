@@ -4,7 +4,7 @@
 	branch = master
 [submodule "fonts"]
 	path = fonts
-	url = git@github.com:powerline/fonts
+	url = https://github.com/powerline/fonts
 	branch = master
 [submodule "ergo"]
 	path = ergo
@@ -16,7 +16,7 @@
 	branch = master
 [submodule "nmap-vulners"]
 	path = nmap-vulners
-	url = git@github.com:vulnersCom/nmap-vulners
+	url = https://github.com/vulnersCom/nmap-vulners
 	branch = master
 [submodule "notify-user"]
 	path = notify-user
