@@ -38,3 +38,6 @@
 	path = xmonad
 	url = ../conf-xmonad
 	branch = master
+[submodule "notes"]
+	path = notes
+	url = git@github.com:Wonko7/private-notes.git
