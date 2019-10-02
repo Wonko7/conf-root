@@ -1,6 +1,7 @@
 [submodule "misc"]
 	path = misc
 	url = ../conf-misc
+	update = merge
 	branch = master
 [submodule "fonts"]
 	path = fonts
@@ -9,10 +10,12 @@
 [submodule "ergo"]
 	path = ergo
 	url = ../conf-ergodox-webthing
+	update = merge
 	branch = master
 [submodule "kernel-config"]
 	path = kernel-config
 	url = ../conf-kernel
+	update = merge
 	branch = master
 [submodule "nmap-vulners"]
 	path = nmap-vulners
@@ -21,6 +24,7 @@
 [submodule "notify-user"]
 	path = notify-user
 	url = ../conf-notify-user
+	update = merge
 	branch = master
 [submodule "pass-audit"]
 	path = pass-audit
@@ -29,15 +33,15 @@
 [submodule "zsh"]
 	path = zsh
 	url = ../conf-zsh
+	update = merge
 	branch = master
 [submodule "vim"]
 	path = vim
 	url = ../conf-vim
+	update = merge
 	branch = master
 [submodule "xmonad"]
 	path = xmonad
 	url = ../conf-xmonad
+	update = merge
 	branch = master
-[submodule "notes"]
-	path = notes
-	url = git@github.com:Wonko7/private-notes.git
