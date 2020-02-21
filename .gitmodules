@@ -45,3 +45,8 @@
 	url = ../conf-xmonad
 	update = merge
 	branch = master
+[submodule "s6-services"]
+	path = s6-services
+	url = ../conf-s6-services
+	update = merge
+	branch = master
