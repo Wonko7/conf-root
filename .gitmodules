@@ -21,11 +21,6 @@
 	path = nmap-vulners
 	url = https://github.com/vulnersCom/nmap-vulners
 	branch = master
-[submodule "notify-user"]
-	path = notify-user
-	url = ../conf-notify-user
-	update = merge
-	branch = master
 [submodule "pass-audit"]
 	path = pass-audit
 	url = https://gitlab.com/darnir/pass-audit.git
