@@ -45,3 +45,8 @@
 	url = ../conf-s6-services
 	update = merge
 	branch = master
+[submodule "doom"]
+	path = doom
+	url = ../conf-doom-emacs.git
+	update = merge
+	branch = master
