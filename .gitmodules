@@ -3,18 +3,9 @@
 	url = ../conf-misc
 	update = merge
 	branch = master
-[submodule "fonts"]
-	path = fonts
-	url = https://github.com/powerline/fonts
-	branch = master
-[submodule "ergo"]
-	path = ergo
-	url = ../conf-ergodox-webthing
-	update = merge
-	branch = master
-[submodule "kernel-config"]
-	path = kernel-config
-	url = ../conf-kernel
+[submodule "ergodox"]
+	path = ergodox
+	url = ../conf-ergodox
 	update = merge
 	branch = master
 [submodule "nmap-vulners"]
@@ -47,6 +38,6 @@
 	branch = master
 [submodule "doom"]
 	path = doom
-	url = ../conf-doom-emacs
+	url = ../conf-doom
 	update = merge
 	branch = master
