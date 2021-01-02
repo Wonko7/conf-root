@@ -47,6 +47,6 @@
 	branch = master
 [submodule "doom"]
 	path = doom
-	url = ../conf-doom-emacs.git
+	url = ../conf-doom-emacs
 	update = merge
 	branch = master
