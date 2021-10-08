@@ -41,3 +41,8 @@
 	url = ../conf-doom
 	update = merge
 	branch = master
+[submodule "guix"]
+	path = guix
+	url = ../conf-guix
+	update = merge
+	branch = master
