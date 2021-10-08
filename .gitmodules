@@ -43,6 +43,6 @@
 	branch = master
 [submodule "guix"]
 	path = guix
-	url = ../conf-guix
+	url = ./guix/
 	update = merge
 	branch = master
